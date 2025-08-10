@@ -1,29 +1,32 @@
-# multipage
+# Multipage Website for Builders - Tiles Industry
 
-multipagewebsite
-
-## Technology Stack
-
-- React
-- TypeScript
-- Tailwind CSS
-- React Router
-
-## Getting Started
-
-1. Clone this repository
-2. Install dependencies: `npm install`
-3. Start development server: `npm run dev`
+This is a standard informational website designed for small businesses in the Builders industry, specifically focusing on the Tiles vertical. The website includes About, Services, and Contact pages with a professional design.
 
 ## Features
+- Responsive design for mobile and desktop
+- Clean and modern UI/UX
+- About page with company information
+- Services page detailing tile installation and related services
+- Contact page with a form and contact details
 
-- Modern React with TypeScript
-- Tailwind CSS for styling
-- Responsive design
-- Production-ready build setup
+## Getting Started
+To get started with the project, follow these steps:
 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/multipage.git
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
 
+## Contributing
+Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
----
-
-Created with [Vibe](https://vibe.dev) - AI-powered web development platform.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
